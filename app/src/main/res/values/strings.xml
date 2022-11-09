@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DEADVAPE LIQUID STORE</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="By">Pertemuan3_View&amp;ViewGroup</string>
+    <string name="Komposisi">Komposisi : Pemanis, Nikotin, Perasa, Propylene Glycol 30, dan Vegetable Glycerin 70</string>
+    <string name="Warning">Perhatian : Produk ini mengandung nikotin. Jangan ditelan.Jangan diteteskan di lidah, kulit, atau mata. Jauhkan dari jangkauan anak-anak dan binatang peliharaan.</string>
+    <string name="Pilihan">Pilihan : 60 ML 3 MG / 60 ML 6 MG</string>
+    <string-array name="liquid">
+        <item>Muffin And Xes  60 ML</item>
+        <item>KRSPY 60 ML</item>
+        <item>Roti Bandara V2 60 ML</item>
+        <item>Kleporn 60 ML</item>
+    </string-array>
+    <string-array name="star">
+        <item>4.8</item>
+        <item>4.6</item>
+        <item>4.4</item>
+        <item>4.0</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Rp. 145.000</item>
+        <item>Rp. 135.000</item>
+        <item>Rp. 140.000</item>
+        <item>Rp. 150.000</item>
+    </string-array>
+</resources>
